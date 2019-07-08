@@ -1,2 +1,6 @@
 # Smart_Dictionary_Python
-A smart dictionary developed in Python
+
+
+After execting the code, experiment with different inputs
+-
+-> For example typing 'RaIn' will give you the correct output
